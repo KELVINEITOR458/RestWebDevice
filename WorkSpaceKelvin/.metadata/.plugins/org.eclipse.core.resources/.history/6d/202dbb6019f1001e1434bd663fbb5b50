@@ -1,0 +1,14 @@
+package com.krakedev.inventario.servicios;
+
+import javax.ws.rs.Path;
+
+import com.krakedev.inventario.entidades.Producto;
+
+@Path("restws")
+public class ServiciosProducto {
+
+	public void insertar(Producto producto) {
+		System.out.println(">>>>>" + prodcuto);
+	}
+	
+}

@@ -1,0 +1,10 @@
+package com.krakedev.inventario.entidades;
+
+public class Producto {
+	private String codigo;
+	private String nombre;
+	private Categoria categoria;
+	private double precio;
+	private int stock;
+	
+}

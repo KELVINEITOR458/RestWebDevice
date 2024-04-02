@@ -1,0 +1,8 @@
+package com.krakedev.inventario.servicios;
+
+import javax.ws.rs.Path;
+
+@Path("restws")
+public class ServiciosProducto {
+
+}

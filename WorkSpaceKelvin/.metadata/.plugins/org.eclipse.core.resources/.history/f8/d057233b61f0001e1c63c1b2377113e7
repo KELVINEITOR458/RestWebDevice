@@ -1,0 +1,10 @@
+package com.krakedev.servicios;
+
+
+@Path("Clientes");
+public class ServicioClientes {
+	public String saludar() {
+		String a= "HolaMundo desde WEBSERVICES";
+		return a;
+	}
+}

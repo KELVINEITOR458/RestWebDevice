@@ -1,0 +1,13 @@
+package com.krakedev.servicios;
+
+import javax.ws.rs.Path;
+
+@Path("Clientes")
+public class ServicioClientes {
+	
+	@Path("Metodo1")
+	public String saludar() {
+		String a= "HolaMundo desde WEBSERVICES";
+		return a;
+	}
+}

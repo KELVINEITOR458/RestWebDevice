@@ -1,0 +1,4 @@
+INDEX VERSION 1.134+C:\Users\Steven Chicaiza\Desktop\WorkSpaceKelvin\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1273440352.index
+2427508876.index
